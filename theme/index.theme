@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Enasis Network Xfce Red Numix
+Comment=Red theme generated using Oomox and Numix
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=enasisnetwork-xfce-theme-red
+GtkTheme=enasisnetwork-xfce-theme-red
+IconTheme=enasisnetwork-xfce-theme-red
+MetacityTheme=enasisnetwork-xfce-theme-red
