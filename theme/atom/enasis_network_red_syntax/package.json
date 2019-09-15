@@ -1,0 +1,14 @@
+{
+  "name": "enasis_network_red_syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Enasis Network red based syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
